@@ -1,5 +1,7 @@
-# Image-Pyramid
-Implementation of Image-Pyramid,  including Gaussian Pyramid and Laplacian Pyramid,  from scratch in python
+<h1>Image-Pyramid</h1>
+<p>The project is about Image-Pyramid technique in computer vision . There are some techniques implemented such as Gaussian Pyramid, Laplacian Pyramid, convolution and subsampling algorithms from scratch.</p>
+
+
 
 
 <h2>References</h2>
